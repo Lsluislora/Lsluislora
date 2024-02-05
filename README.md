@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsluislora" alt="lsluislora" /></a> </p>
 
-- 🔭 I’m currently working on.... **ICM Calculator**
+- 🔭 I’m currently working on **ICM Calculator**
 
 - 🌱 I’m currently learning **Spring, Spring Boot, Python, Kotlin**
 
